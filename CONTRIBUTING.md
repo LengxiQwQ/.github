@@ -8,8 +8,8 @@ Thanks for your interest in contributing! Please take a moment to review this gu
 
 ## Before You Start / 开始之前
 
-- Check the project's own `CONTRIBUTING.md` or `CLAUDE.md` for project-specific coding conventions.
-- 查看项目目录中的 `CONTRIBUTING.md` 或 `CLAUDE.md`，了解该项目专属的编码规范。
+- Check the project's own `CONTRIBUTING.md` or relevant project documentation for project-specific coding conventions.
+- 查看项目目录中的 `CONTRIBUTING.md` 或相关项目文档，了解该项目专属的编码规范。
 
 ---
 

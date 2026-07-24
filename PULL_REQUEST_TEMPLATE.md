@@ -9,7 +9,7 @@
 ## ✅ Checklist / 检查清单
 
 - [ ] Builds without errors / 构建无报错
-- [ ] Code follows project coding conventions (check the project's `CONTRIBUTING.md` or `CLAUDE.md`) / 代码遵循项目编码规范（查看项目的 `CONTRIBUTING.md` 或 `CLAUDE.md`）
+- [ ] Code follows project coding conventions (check the relevant project documentation) / 代码遵循项目编码规范（查看相关项目文档）
 - [ ] No hardcoded magic strings where avoidable — use constants, config, or resource files as the project prescribes / 避免硬编码字符串（根据项目规范使用常量、配置或资源文件）
 - [ ] Clear comments added where needed / 添加了清晰的注释
 - [ ] Tested locally / 已在本地测试
