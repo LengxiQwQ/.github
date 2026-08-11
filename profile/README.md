@@ -2,19 +2,66 @@
 
 # 👋 Hi, I'm LengxiQwQ
 
-<p>
-  <img src="https://img.shields.io/badge/.NET-9.0-512BD4?style=flat-square&logo=dotnet" />
-  <img src="https://img.shields.io/badge/WinUI-3-0078D7?style=flat-square&logo=windows" />
-  <img src="https://img.shields.io/badge/C%23-13.0-239120?style=flat-square&logo=csharp" />
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Windows-11-0078D7?style=flat-square&logo=windows11" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20LengxiQwQ!;Windows%20App%20Developer;.NET%20%2F%20WinUI%203%20%2F%20C%23%20%2F%20Python;%E5%BC%80%E6%BA%90%E5%8D%B3%E6%98%AF%E5%8A%9B%E9%87%8F%F0%9F%94%A8&font=Fira%20Code&center=true&width=640&height=70&duration=3500)](https://github.com/LengxiQwQ)
+
+<p align="center">
+  <a href="https://github.com/LengxiQwQ"><img src="https://img.shields.io/badge/GitHub-LengxiQwQ-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/LengxiQwQ/live-photo-box/releases"><img src="https://img.shields.io/github/v/release/LengxiQwQ/live-photo-box?style=for-the-badge&color=0078D7" /></a>
+  <a href="https://github.com/LengxiQwQ/live-photo-box/stargazers"><img src="https://img.shields.io/github/stars/LengxiQwQ/live-photo-box?style=for-the-badge&color=238636" /></a>
+  <a href="https://apps.microsoft.com/detail/9n3d1qnrtvch"><img src="https://img.shields.io/badge/Microsoft%20Store-0078D7?style=for-the-badge&logo=microsoftstore&logoColor=white" /></a>
+  <a href="https://github.com/sponsors/LengxiQwQ"><img src="https://img.shields.io/badge/Sponsor-DB61A2?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
 </p>
 
 <p>Windows 应用开发者 · 喜欢折腾实用小工具 · 开源即是力量 🔨</p>
 
+</div>
+
 ---
 
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-stats.vercel.app/api?username=LengxiQwQ&show_icons=true&theme=github_dark" alt="GitHub Stats" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LengxiQwQ&layout=compact&theme=github_dark" alt="Top Langs" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=LengxiQwQ&theme=github-dark-blue" alt="GitHub Streak" /></a>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-activity-graph.vercel.app/graph?username=LengxiQwQ&theme=react-dark" alt="Activity Graph" /></a>
+</p>
+
+## 🃏 Profile Summary Cards
+
+<p align="center">
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LengxiQwQ&theme=default" alt="Profile Details" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LengxiQwQ&theme=default" alt="Repos per Language" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LengxiQwQ&theme=default" alt="Most Commit Language" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LengxiQwQ&theme=default" alt="Stats" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LengxiQwQ&theme=default&utcOffset=7" alt="Productive Time" /></a>
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-trophy.vercel.app/?username=LengxiQwQ&theme=onedark" alt="Trophy" /></a>
+</p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=18&lineHeight=8&lineCount=1&theme=ayu&width=520&line1=dotnet%2Cdotnet%2Cauto%3Bcs%2Ccs%2Cauto%3Bpython%2Cpython%2Cauto%3Bgit%2Cgit%2Cauto%3Bwindows%2Cwindows%2Cauto%3B" alt="Tech Stack" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LengxiQwQ"><img src="https://skillicons.dev/icons?i=dotnet,cs,py,git,githubactions,visualstudio,vscode,flutter,dart,kotlin,androidstudio,windows&perline=12" alt="My Skills" /></a>
+</p>
+
+---
 
 ## 📌 Featured Projects
 
@@ -26,6 +73,7 @@
 
 <p>
   <a href="https://github.com/lengxiqwq/live-photo-box/releases"><img src="https://img.shields.io/github/v/release/lengxiqwq/live-photo-box?style=flat-square&color=0078D7" /></a>
+  <a href="https://github.com/lengxiqwq/live-photo-box/actions"><img src="https://img.shields.io/github/actions/workflow/status/lengxiqwq/live-photo-box/build.yml?style=flat-square&logo=githubactions" /></a>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D7?style=flat-square&logo=windows11" />
   <a href="https://apps.microsoft.com/detail/9n3d1qnrtvch"><img src="https://img.shields.io/badge/Store-Download-0078D7?style=flat-square&logo=microsoftstore" /></a>
 </p>
@@ -48,14 +96,36 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🐍 Contribution Snake
 
-```
-.NET (WinUI 3, WPF)  ·  C#  ·  Python  ·  AutoHotkey
-Windows App SDK  ·  FFmpeg  ·  ExifTool  ·  MVVM
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LengxiQwQ/.github/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LengxiQwQ/.github/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LengxiQwQ/.github/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+  <a href="https://github.com/LengxiQwQ"><img src="https://komarev.com/ghpvc/?username=LengxiQwQ&color=blueviolet" alt="Profile Views" /></a>
+</p>
 
 ---
+
+<!--
+═══ Metrics 大图（WeiErLiTeo 同款）═══
+手动步骤：在 .github 仓库 Settings → Secrets and variables → Actions 里添加 secret：
+  名称 METRICS_TOKEN，值填一个 Personal Access Token（勾选 repo / read:user / read:org）
+然后运行 Actions 里的 “Metrics” workflow。
+生成成功后再把下面这一行的注释去掉即可显示：
+-->
+<!--
+<p align="center">
+  <a href="https://github.com/LengxiQwQ"><img src="https://raw.githubusercontent.com/LengxiQwQ/.github/main/github-metrics.svg" alt="Metrics" /></a>
+</p>
+-->
 
 <p align="center">
   <sub>如果我的项目对你有帮助，欢迎 <a href="https://github.com/sponsors/LengxiQwQ">❤️ 赞助支持</a> ☕</sub>
