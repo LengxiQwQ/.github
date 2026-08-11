@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm LengxiQwQ
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20LengxiQwQ!;Windows%20App%20Developer;.NET%20%2F%20WinUI%203%20%2F%20C%23%20%2F%20Python;%E5%BC%80%E6%BA%90%E5%8D%B3%E6%98%AF%E5%8A%9B%E9%87%8F%F0%9F%94%A8&font=Fira%20Code&center=true&width=640&height=70&duration=3500)](https://github.com/LengxiQwQ)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I'm%20LengxiQwQ!;Windows%20App%20Developer;.NET%20%2F%20WinUI%203%20%2F%20C%23%20%2F%20Python;%E5%BC%80%E6%BA%90%E5%8D%B3%E6%98%AF%E5%8A%9B%E9%87%8F%F0%9F%94%A8&font=Fira%20Code&center=true&width=640&height=70&duration=3500&color=0969DA)](https://github.com/LengxiQwQ)
 
 <p align="center">
   <a href="https://github.com/LengxiQwQ"><img src="https://img.shields.io/badge/GitHub-LengxiQwQ-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -21,44 +21,44 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-stats.vercel.app/api?username=LengxiQwQ&show_icons=true&theme=github_dark" alt="GitHub Stats" /></a>
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LengxiQwQ&layout=compact&theme=github_dark" alt="Top Langs" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=LengxiQwQ&theme=github-dark-blue" alt="GitHub Streak" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-stats.vercel.app/api?username=LengxiQwQ&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LengxiQwQ&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=LengxiQwQ&background=00000000&hide_border=true&currStreakNum=0969DA&sideLabels=57606A&sideNums=57606A&dates=57606A&fire=E4572E&ring=0969DA" alt="GitHub Streak" /></a>
 </p>
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-activity-graph.vercel.app/graph?username=LengxiQwQ&theme=react-dark" alt="Activity Graph" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-activity-graph.vercel.app/graph?username=LengxiQwQ&bg_color=00000000&hide_border=true&color=0969DA&line=0969DA&point=57606A&area=true" alt="Activity Graph" /></a>
 </p>
 
 ## 🃏 Profile Summary Cards
 
 <p align="center">
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LengxiQwQ&theme=default" alt="Profile Details" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LengxiQwQ&theme=transparent" alt="Profile Details" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LengxiQwQ&theme=default" alt="Repos per Language" /></a>
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LengxiQwQ&theme=default" alt="Most Commit Language" /></a>
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LengxiQwQ&theme=default" alt="Stats" /></a>
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LengxiQwQ&theme=default&utcOffset=7" alt="Productive Time" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LengxiQwQ&theme=transparent" alt="Repos per Language" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LengxiQwQ&theme=transparent" alt="Most Commit Language" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LengxiQwQ&theme=transparent" alt="Stats" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LengxiQwQ&theme=transparent&utcOffset=7" alt="Productive Time" /></a>
 </p>
 
 ## 🏆 Trophies
 
 <p align="center">
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-trophy.vercel.app/?username=LengxiQwQ&theme=onedark" alt="Trophy" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-trophy.vercel.app/?username=LengxiQwQ&no-bg=true" alt="Trophy" /></a>
 </p>
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=18&lineHeight=8&lineCount=1&theme=ayu&width=520&line1=dotnet%2Cdotnet%2Cauto%3Bcs%2Ccs%2Cauto%3Bpython%2Cpython%2Cauto%3Bgit%2Cgit%2Cauto%3Bwindows%2Cwindows%2Cauto%3B" alt="Tech Stack" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=18&lineHeight=8&lineCount=1&theme=github&width=520&line1=dotnet%2Cdotnet%2Cauto%3Bcs%2Ccs%2Cauto%3Bpython%2Cpython%2Cauto%3Bgit%2Cgit%2Cauto%3Bwindows%2Cwindows%2Cauto%3B" alt="Tech Stack" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/LengxiQwQ"><img src="https://skillicons.dev/icons?i=dotnet,cs,py,git,githubactions,visualstudio,vscode,flutter,dart,kotlin,androidstudio,windows&perline=12" alt="My Skills" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://skillicons.dev/icons?i=dotnet,cs,py,git,githubactions,visualstudio,vscode,flutter,dart,kotlin,androidstudio,windows&perline=12&theme=light" alt="My Skills" /></a>
 </p>
 
 ---
