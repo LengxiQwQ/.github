@@ -35,14 +35,14 @@
 ## 🃏 Profile Summary Cards
 
 <p align="center">
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LengxiQwQ&theme=transparent" alt="Profile Details" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LengxiQwQ&theme=default" alt="Profile Details" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LengxiQwQ&theme=transparent" alt="Repos per Language" /></a>
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LengxiQwQ&theme=transparent" alt="Most Commit Language" /></a>
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LengxiQwQ&theme=transparent" alt="Stats" /></a>
-  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LengxiQwQ&theme=transparent&utcOffset=7" alt="Productive Time" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LengxiQwQ&theme=default" alt="Repos per Language" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LengxiQwQ&theme=default" alt="Most Commit Language" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LengxiQwQ&theme=default" alt="Stats" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LengxiQwQ&theme=default&utcOffset=7" alt="Productive Time" /></a>
 </p>
 
 ## 🏆 Trophies
