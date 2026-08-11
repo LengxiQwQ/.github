@@ -45,11 +45,13 @@
   <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LengxiQwQ&theme=default&utcOffset=7" alt="Productive Time" /></a>
 </p>
 
+<!--
 ## 🏆 Trophies
-
+（作者公共实例 402 暂停中，恢复后取消本注释即可）
 <p align="center">
   <a href="https://github.com/LengxiQwQ"><img src="https://github-profile-trophy.vercel.app/?username=LengxiQwQ&no-bg=true" alt="Trophy" /></a>
 </p>
+-->
 
 ## 🛠️ Tech Stack
 
