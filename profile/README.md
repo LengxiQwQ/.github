@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-stats-two-teal-29.vercel.app/api?username=LengxiQwQ&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" /></a>
   <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-stats-two-teal-29.vercel.app/api/top-langs/?username=LengxiQwQ&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=LengxiQwQ&background=00000000&hide_border=true&currStreakNum=0969DA&sideLabels=57606A&sideNums=57606A&dates=57606A&fire=E4572E&ring=0969DA" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=LengxiQwQ&background=00000000&hide_border=true&currStreakNum=0969DA&sideLabels=57606A&sideNums=57606A&dates=57606A&fire=E4572E&ring=0969DA&v=2" alt="GitHub Streak" /></a>
 </p>
 
 ## 📈 Activity Graph
