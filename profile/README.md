@@ -124,7 +124,7 @@
 生成成功后再把下面这一行的注释去掉即可显示：
 -->
 <p align="center">
-  <a href="https://github.com/LengxiQwQ"><img src="https://raw.githubusercontent.com/LengxiQwQ/.github/main/github-metrics.svg" alt="Metrics" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://raw.githubusercontent.com/LengxiQwQ/.github/main/profile/github-metrics.svg" alt="Metrics" /></a>
 </p>
 
 <p align="center">
