@@ -123,11 +123,9 @@
 然后运行 Actions 里的 “Metrics” workflow。
 生成成功后再把下面这一行的注释去掉即可显示：
 -->
-<!--
 <p align="center">
   <a href="https://github.com/LengxiQwQ"><img src="https://raw.githubusercontent.com/LengxiQwQ/.github/main/github-metrics.svg" alt="Metrics" /></a>
 </p>
--->
 
 <p align="center">
   <sub>如果我的项目对你有帮助，欢迎 <a href="https://github.com/sponsors/LengxiQwQ">❤️ 赞助支持</a> ☕</sub>
