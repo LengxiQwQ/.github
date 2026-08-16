@@ -19,8 +19,8 @@ jobs:
           # 必须的 Token，需在 Secrets 中配置
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # 输出的文件名，刚好对应你 README 里的 https://raw.githubusercontent.com/.../github-metrics.svg
-          filename: github-metrics.svg
+          # 输出的文件名，刚好对应你 README 里的 https://raw.githubusercontent.com/.../profile/github-metrics.svg
+          filename: profile/github-metrics.svg
           
           user: LengxiQwQ
           template: classic
