@@ -1,19 +1,57 @@
 name: Metrics
-
 on:
+  # 每天凌晨自动更新 (UTC时间 0点，大马/北京时间早上8点)
+  schedule: [{cron: "0 0 * * *"}]
+  # 允许在 GitHub Actions 页面手动点击按钮触发
   workflow_dispatch:
+  # 当推送到主分支时自动触发
+  push: {branches: ["main"]}
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 给予 Action 推送生成的 SVG 到仓库的权限
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
+          # 必须的 Token，需在 Secrets 中配置
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # 输出的文件名，刚好对应你 README 里的 https://raw.githubusercontent.com/.../github-metrics.svg
+          filename: github-metrics.svg
+          
           user: LengxiQwQ
           template: classic
           base: header, activity, community, repositories, metadata
-          filename: github-metrics.svg
-          plugin_introduction: yes
-          plugin_isocalendar: yes
+          # 配合你在马来西亚的时区，确保作息图表准确
+          config_timezone: Asia/Kuala_Lumpur
+          
+          # 移除强制的深色模式，使用响应式或透明以适配你的 GitHub 主题
+          config_display: large
+          
+          # ==========================================
+          # 🌟 以下是为你开启的“花里胡哨但极客”的插件模块 🌟
+          # ==========================================
+          
+          # 1. 语言使用比例 (高亮 C#, Python 等)
           plugin_languages: yes
+          plugin_languages_ignored: html, css, tex
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          
+          # 2. 3D 日历展示你的 Commit 活跃度
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # 3. 你的代码习惯与作息图表 (展示你是白天写代码还是深夜党)
+          plugin_habits: yes
+          plugin_habits_from: 200       # 基于最近 200 个 commit 分析
+          plugin_habits_days: 14        # 取最近 14 天
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          
+          # 4. 你获得的 Star 和代码库亮点
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
