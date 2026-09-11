@@ -20,26 +20,26 @@ Right now, most of my time goes into the low-level refactoring and continued imp
 
 ---
 
-## Spotlight
+## Spotlight / 主项目
 
 ### 🎬 [Live Photo Box（实况照片工具箱）](https://github.com/LengxiQwQ/live-photo-box)
 
 A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on protocol conversion, extraction, repair, and editing.  
-面向跨厂商 Live Photo / Motion Photo 格式的 Windows 工具，专注协议转换、拆分、修复与编辑。
+面向不同品牌实况照片格式的 Windows 工具，专注协议转换、拆分、修复与编辑。
 
 <p>
   <a href="https://github.com/LengxiQwQ/live-photo-box/releases"><img src="https://img.shields.io/github/v/release/LengxiQwQ/live-photo-box?style=flat-square&label=Release&color=0078D7" /></a>
   <a href="https://github.com/LengxiQwQ/live-photo-box/stargazers"><img src="https://img.shields.io/github/stars/LengxiQwQ/live-photo-box?style=flat-square&label=Stars&color=238636" /></a>
-  <a href="https://github.com/LengxiQwQ/live-photo-box/actions"><img src="https://img.shields.io/github/actions/workflow/status/LengxiQwQ/live-photo-box/build.yml?style=flat-square&logo=githubactions&label=Build" /></a>
+  <a href="https://github.com/LengxiQwQ/live-photo-box/releases"><img src="https://img.shields.io/github/downloads/LengxiQwQ/live-photo-box/total?style=flat-square&label=Downloads&color=2ea44f" /></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D7?style=flat-square&logo=windows11&logoColor=white" />
-  <a href="https://apps.microsoft.com/detail/9n3d1qnrtvch"><img src="https://img.shields.io/badge/Microsoft%20Store-Download-0078D7?style=flat-square&logo=microsoftstore&logoColor=white" /></a>
+  <a href="https://apps.microsoft.com/detail/9n3d1qnrtvch?referrer=appbadge&mode=full"><img src="https://img.shields.io/badge/Microsoft%20Store-Download-0078D7?style=flat-square&logo=microsoftstore&logoColor=white" /></a>
 </p>
 
 > **Windows / WinUI 3** · **C# UI** · **C++ media core**
 
 ---
 
-## Contribution Snake
+## Contribution Snake / 贡献贪吃蛇
 
 <p align="center">
   <picture>
@@ -49,7 +49,7 @@ A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on
   </picture>
 </p>
 
-## Tools I Actually Use
+## Tools I Actually Use / 常用技术与工具
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,py,git,githubactions,visualstudio,vscode,windows,linux,flutter,dart,kotlin&perline=13&theme=light" alt="Tools and Languages" />
@@ -59,7 +59,7 @@ A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on
   <sub>C# · C++ · .NET · WinUI 3 · Python · Git · GitHub Actions · Visual Studio · VS Code · Windows · Linux · Flutter · Dart · Kotlin</sub>
 </p>
 
-## GitHub Stats
+## GitHub Stats / GitHub 数据统计
 
 <p align="center">
   <a href="https://github.com/LengxiQwQ"><img src="https://github-readme-stats-two-teal-29.vercel.app/api?username=LengxiQwQ&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" /></a>
