@@ -4,31 +4,38 @@
 
 </div>
 
-## Featured Projects
+## About Me / 关于我
 
-### [Live Photo Box（实况照片工具箱）](https://github.com/LengxiQwQ/live-photo-box)
+I'm an IT student and independent developer, mainly tinkering with Windows apps and practical tools.
+
+I enjoy Windows development, open source, gaming, and music. I often turn everyday annoyances and unusual technical problems into software that is easy for anyone to use.
+
+Right now, most of my time goes into the low-level refactoring and continued improvement of **Live Photo Box**.
+
+我是一名 IT 专业学生，也是一名独立开发者，平时主要折腾 Windows 应用和各种实用工具。
+
+我喜欢 Windows 开发、开源、游戏和音乐，也经常会把一些日常的小麻烦和奇怪的技术问题，做成普通用户也能轻松上手的软件。
+
+目前，我的大部分精力都放在 **Live Photo Box** 的底层重构和持续完善上。
+
+---
+
+## Spotlight
+
+### 🎬 [Live Photo Box（实况照片工具箱）](https://github.com/LengxiQwQ/live-photo-box)
 
 A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on protocol conversion, extraction, repair, and editing.  
 面向跨厂商 Live Photo / Motion Photo 格式的 Windows 工具，专注协议转换、拆分、修复与编辑。
 
 <p>
-  <a href="https://github.com/LengxiQwQ/live-photo-box/releases"><img src="https://img.shields.io/github/v/release/LengxiQwQ/live-photo-box?style=flat-square&color=0078D7" /></a>
-  <a href="https://github.com/LengxiQwQ/live-photo-box/stargazers"><img src="https://img.shields.io/github/stars/LengxiQwQ/live-photo-box?style=flat-square&color=238636" /></a>
-  <a href="https://github.com/LengxiQwQ/live-photo-box/actions"><img src="https://img.shields.io/github/actions/workflow/status/LengxiQwQ/live-photo-box/build.yml?style=flat-square&logo=githubactions" /></a>
+  <a href="https://github.com/LengxiQwQ/live-photo-box/releases"><img src="https://img.shields.io/github/v/release/LengxiQwQ/live-photo-box?style=flat-square&label=Release&color=0078D7" /></a>
+  <a href="https://github.com/LengxiQwQ/live-photo-box/stargazers"><img src="https://img.shields.io/github/stars/LengxiQwQ/live-photo-box?style=flat-square&label=Stars&color=238636" /></a>
+  <a href="https://github.com/LengxiQwQ/live-photo-box/actions"><img src="https://img.shields.io/github/actions/workflow/status/LengxiQwQ/live-photo-box/build.yml?style=flat-square&logo=githubactions&label=Build" /></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D7?style=flat-square&logo=windows11&logoColor=white" />
   <a href="https://apps.microsoft.com/detail/9n3d1qnrtvch"><img src="https://img.shields.io/badge/Microsoft%20Store-Download-0078D7?style=flat-square&logo=microsoftstore&logoColor=white" /></a>
 </p>
 
-> Windows / WinUI 3 · C# UI · C++ media core
-
-**Also building**
-
-- [CapsLock IME Switcher](https://github.com/LengxiQwQ/capslock-ime-switcher) — A tiny Windows utility for switching Chinese / English input with CapsLock.  
-  CapsLock 一键切换中英文输入法的 Windows 小工具。
-- [QQ Music Playlist Exporter](https://github.com/LengxiQwQ/qqmusic-playlist-exporter) — Export QQ Music playlists to TXT / CSV / XLSX / JSON.  
-  将 QQ 音乐歌单导出为 TXT / CSV / XLSX / JSON。
-- [Personal Website](https://github.com/LengxiQwQ/personal-website) — My personal site and a place for random things I build.  
-  我的个人网站，也用来放一些日常折腾的小东西。
+> **Windows / WinUI 3** · **C# UI** · **C++ media core**
 
 ---
 
@@ -42,11 +49,15 @@ A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on
   </picture>
 </p>
 
-## Tools & Languages
+## Tools I Actually Use
 
-`C#` · `C++` · `.NET` · `WinUI 3` · `Python` · `Git` · `GitHub Actions`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,py,git,githubactions,visualstudio,vscode,windows,linux,flutter,dart,kotlin&perline=13&theme=light" alt="Tools and Languages" />
+</p>
 
-`Visual Studio` · `VS Code` · `Windows` · `Linux` · `Flutter` · `Dart` · `Kotlin`
+<p align="center">
+  <sub>C# · C++ · .NET · WinUI 3 · Python · Git · GitHub Actions · Visual Studio · VS Code · Windows · Linux · Flutter · Dart · Kotlin</sub>
+</p>
 
 ## GitHub Stats
 
@@ -62,6 +73,6 @@ A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on
 ---
 
 <p align="center">
-  <a href="https://github.com/LengxiQwQ"><img src="https://komarev.com/ghpvc/?username=LengxiQwQ&label=Profile%20Views&color=6f42c1&style=flat-square" alt="Profile Views" /></a>
-  <a href="https://github.com/sponsors/LengxiQwQ"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://komarev.com/ghpvc/?username=LengxiQwQ&label=Profile%20Views&color=6f42c1&style=flat" alt="Profile Views" /></a>
+  <a href="https://github.com/sponsors/LengxiQwQ"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
 </p>
