@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=1150&color=24292F&center=true&vCenter=true&repeat=true&width=720&height=52&lines=I%27m+LengxiQwQ+%E2%80%94+student+%26+developer.;Still+learning.+Still+building.;Small+ideas%2C+real+software.;One+rabbit+hole+away+from+another+project.)](https://github.com/LengxiQwQ)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=1150&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=52&lines=I%27m+LengxiQwQ+%E2%80%94+student+%26+developer.;Still+learning.+Still+building.;Small+ideas%2C+real+software.;One+rabbit+hole+away+from+another+project.)](https://github.com/LengxiQwQ)
 
 </div>
 
