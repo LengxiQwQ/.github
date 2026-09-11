@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Making%20tools%20I%20actually%20want%20to%20use.;Windows%20apps%2C%20media%20formats%2C%20and%20random%20experiments.;Currently%20building%20Live%20Photo%20Box.&font=Fira%20Code&center=true&width=720&height=70&duration=3500&color=0969DA)](https://github.com/LengxiQwQ)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=3000&pause=1150&color=24292F&center=true&vCenter=true&repeat=true&width=720&height=52&lines=I%27m+LengxiQwQ+%E2%80%94+student+%26+developer.;Still+learning.+Still+building.;Small+ideas%2C+real+software.;One+rabbit+hole+away+from+another+project.)](https://github.com/LengxiQwQ)
 
 </div>
 
