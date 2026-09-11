@@ -1,8 +1,15 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Making%20tools%20I%20actually%20want%20to%20use.;Windows%20apps%2C%20media%20formats%2C%20and%20random%20experiments.;Currently%20building%20Live%20Photo%20Box.&font=Fira%20Code&center=true&width=720&height=70&duration=3500&color=0969DA)](https://github.com/LengxiQwQ)
+
+</div>
+
 ## Featured Projects
 
 ### [Live Photo Box（实况照片工具箱）](https://github.com/LengxiQwQ/live-photo-box)
 
-跨厂商 Live Photo / Motion Photo 处理工具，专注于协议转换、拆分、修复与编辑。
+A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on protocol conversion, extraction, repair, and editing.  
+面向跨厂商 Live Photo / Motion Photo 格式的 Windows 工具，专注协议转换、拆分、修复与编辑。
 
 <p>
   <a href="https://github.com/LengxiQwQ/live-photo-box/releases"><img src="https://img.shields.io/github/v/release/LengxiQwQ/live-photo-box?style=flat-square&color=0078D7" /></a>
@@ -16,9 +23,12 @@
 
 **Also building**
 
-- [CapsLock IME Switcher](https://github.com/LengxiQwQ/capslock-ime-switcher) — CapsLock 一键切换中英文输入法的小工具
-- [QQ Music Playlist Exporter](https://github.com/LengxiQwQ/qqmusic-playlist-exporter) — 导出 QQ 音乐歌单到 TXT / CSV / XLSX / JSON
-- [Personal Website](https://github.com/LengxiQwQ/personal-website) — 个人网站与一些日常折腾
+- [CapsLock IME Switcher](https://github.com/LengxiQwQ/capslock-ime-switcher) — A tiny Windows utility for switching Chinese / English input with CapsLock.  
+  CapsLock 一键切换中英文输入法的 Windows 小工具。
+- [QQ Music Playlist Exporter](https://github.com/LengxiQwQ/qqmusic-playlist-exporter) — Export QQ Music playlists to TXT / CSV / XLSX / JSON.  
+  将 QQ 音乐歌单导出为 TXT / CSV / XLSX / JSON。
+- [Personal Website](https://github.com/LengxiQwQ/personal-website) — My personal site and a place for random things I build.  
+  我的个人网站，也用来放一些日常折腾的小东西。
 
 ---
 
@@ -52,7 +62,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LengxiQwQ&color=blueviolet&style=flat-square" alt="Profile Views" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/sponsors/LengxiQwQ">❤️ Sponsor</a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://komarev.com/ghpvc/?username=LengxiQwQ&label=Profile%20Views&color=6f42c1&style=flat-square" alt="Profile Views" /></a>
+  <a href="https://github.com/sponsors/LengxiQwQ"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
 </p>
