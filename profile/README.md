@@ -29,7 +29,7 @@ A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on
 面向不同品牌实况照片格式的 Windows 工具，专注协议转换、拆分、修复与编辑。
 
 <p>
-  <a href="https://github.com/LengxiQwQ/live-photo-box/releases"><img src="https://img.shields.io/github/v/release/LengxiQwQ/live-photo-box?style=flat-square&label=Release&color=4F46E5&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/LengxiQwQ/live-photo-box/releases"><img src="https://img.shields.io/github/v/release/LengxiQwQ/live-photo-box?style=flat-square&label=Release&color=1F6FEB&logo=github&logoColor=white" /></a>
   <a href="https://github.com/LengxiQwQ/live-photo-box/stargazers"><img src="https://img.shields.io/github/stars/LengxiQwQ/live-photo-box?style=flat-square&label=Stars&color=D97706&logo=github&logoColor=white" /></a>
   <a href="https://github.com/LengxiQwQ/live-photo-box/releases"><img src="https://img.shields.io/github/downloads/LengxiQwQ/live-photo-box/total?style=flat-square&label=Downloads&color=16A34A&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square&logo=windows11&logoColor=white" />
