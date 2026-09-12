@@ -37,6 +37,18 @@ A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on
 
 > **Windows / WinUI 3** · **C# UI** · **C++ media core**
 
+### 🎵 [PlaylistOut](https://github.com/LengxiQwQ/playlistout)
+
+主流音乐平台歌单解析与多格式导出工具，支持 TXT / CSV / Excel / JSON 等格式｜Playlist parser and multi-format exporter for major music platforms, supporting TXT, CSV, Excel, JSON, and more.
+
+<p>
+  <a href="https://playlistout.com"><img src="https://img.shields.io/badge/Website-playlistout.com-2563eb?style=flat-square" /></a>
+  <a href="https://github.com/LengxiQwQ/playlistout/stargazers"><img src="https://img.shields.io/github/stars/LengxiQwQ/playlistout?style=flat-square&logo=github" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react&logoColor=fff" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=fff" /></a>
+  <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-6.2-646CFF?style=flat-square&logo=vite&logoColor=fff" /></a>
+</p>
+
 ---
 
 ## Contribution Snake / 贡献贪吃蛇
