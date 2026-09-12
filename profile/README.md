@@ -40,9 +40,9 @@ A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on
 
 ### 🎵 [Playlist Out（歌单导出助手）](https://github.com/LengxiQwQ/playlistout)
 
-主流音乐平台歌单解析与多格式导出工具，支持 TXT / CSV / Excel / JSON 等格式。
-
 Playlist parser and multi-format exporter for major music platforms, supporting TXT, CSV, Excel, JSON, and more.
+
+主流音乐平台歌单解析与多格式导出工具，支持 TXT / CSV / Excel / JSON 等格式。
 
 <p>
   <a href="https://playlistout.com"><img src="https://img.shields.io/badge/Website-playlistout.com-2563EB?style=flat-square" /></a>
