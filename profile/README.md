@@ -25,6 +25,7 @@ Right now, most of my time goes into the low-level refactoring and continued imp
 ### 🎬 [Live Photo Box（实况照片工具箱）](https://github.com/LengxiQwQ/live-photo-box)
 
 A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on protocol conversion, extraction, repair, and editing.  
+
 面向不同品牌实况照片格式的 Windows 工具，专注协议转换、拆分、修复与编辑。
 
 <p>
@@ -39,7 +40,9 @@ A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on
 
 ### 🎵 [Playlist Out](https://github.com/LengxiQwQ/playlistout)
 
-主流音乐平台歌单解析与多格式导出工具，支持 TXT / CSV / Excel / JSON 等格式｜Playlist parser and multi-format exporter for major music platforms, supporting TXT, CSV, Excel, JSON, and more.
+主流音乐平台歌单解析与多格式导出工具，支持 TXT / CSV / Excel / JSON 等格式。
+
+Playlist parser and multi-format exporter for major music platforms, supporting TXT, CSV, Excel, JSON, and more.
 
 <p>
   <a href="https://playlistout.com"><img src="https://img.shields.io/badge/Website-playlistout.com-2563eb?style=flat-square" /></a>
