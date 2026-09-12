@@ -24,16 +24,16 @@ Right now, most of my time goes into the low-level refactoring and continued imp
 
 ### 🎬 [Live Photo Box（实况照片工具箱）](https://github.com/LengxiQwQ/live-photo-box)
 
-A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on protocol conversion, extraction, repair, and editing.  
+A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on protocol conversion, extraction, repair, and editing.
 
 面向不同品牌实况照片格式的 Windows 工具，专注协议转换、拆分、修复与编辑。
 
 <p>
-  <a href="https://github.com/LengxiQwQ/live-photo-box/releases"><img src="https://img.shields.io/github/v/release/LengxiQwQ/live-photo-box?style=flat-square&label=Release&color=0078D7" /></a>
-  <a href="https://github.com/LengxiQwQ/live-photo-box/stargazers"><img src="https://img.shields.io/github/stars/LengxiQwQ/live-photo-box?style=flat-square&label=Stars&color=238636" /></a>
-  <a href="https://github.com/LengxiQwQ/live-photo-box/releases"><img src="https://img.shields.io/github/downloads/LengxiQwQ/live-photo-box/total?style=flat-square&label=Downloads&color=2ea44f" /></a>
-  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D7?style=flat-square&logo=windows11&logoColor=white" />
-  <a href="https://apps.microsoft.com/detail/9n3d1qnrtvch?referrer=appbadge&mode=full"><img src="https://img.shields.io/badge/Microsoft%20Store-Download-0078D7?style=flat-square&logo=microsoftstore&logoColor=white" /></a>
+  <a href="https://github.com/LengxiQwQ/live-photo-box/releases"><img src="https://img.shields.io/github/v/release/LengxiQwQ/live-photo-box?style=flat-square&label=Release&color=181717&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/LengxiQwQ/live-photo-box/stargazers"><img src="https://img.shields.io/github/stars/LengxiQwQ/live-photo-box?style=flat-square&label=Stars&color=181717&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/LengxiQwQ/live-photo-box/releases"><img src="https://img.shields.io/github/downloads/LengxiQwQ/live-photo-box/total?style=flat-square&label=Downloads&color=181717&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=flat-square&logo=windows11&logoColor=white" />
+  <a href="https://apps.microsoft.com/detail/9n3d1qnrtvch?referrer=appbadge&mode=full"><img src="https://img.shields.io/badge/Microsoft%20Store-Download-0078D4?style=flat-square&logo=microsoftstore&logoColor=white" /></a>
 </p>
 
 > **Windows / WinUI 3** · **C# UI** · **C++ media core**
@@ -45,12 +45,13 @@ A Windows toolkit for cross-vendor Live Photo / Motion Photo formats, focused on
 Playlist parser and multi-format exporter for major music platforms, supporting TXT, CSV, Excel, JSON, and more.
 
 <p>
-  <a href="https://playlistout.com"><img src="https://img.shields.io/badge/Website-playlistout.com-2563eb?style=flat-square" /></a>
-  <a href="https://github.com/LengxiQwQ/playlistout/stargazers"><img src="https://img.shields.io/github/stars/LengxiQwQ/playlistout?style=flat-square&logo=github" /></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react&logoColor=fff" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=fff" /></a>
-  <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-6.2-646CFF?style=flat-square&logo=vite&logoColor=fff" /></a>
+  <a href="https://playlistout.com"><img src="https://img.shields.io/badge/Website-playlistout.com-2563EB?style=flat-square" /></a>
+  <a href="https://github.com/LengxiQwQ/playlistout/stargazers"><img src="https://img.shields.io/github/stars/LengxiQwQ/playlistout?style=flat-square&label=Stars&color=181717&logo=github&logoColor=white" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+  <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-6.2-646CFF?style=flat-square&logo=vite&logoColor=white" /></a>
 </p>
+
 
 ---
 
