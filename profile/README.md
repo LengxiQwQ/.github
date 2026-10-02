@@ -88,6 +88,5 @@ Playlist parser and multi-format exporter for major music platforms, supporting 
 ---
 
 <p align="center">
-  <a href="https://github.com/LengxiQwQ"><img src="https://komarev.com/ghpvc/?username=LengxiQwQ&label=Profile%20Views&color=6f42c1&style=flat" alt="Profile Views" /></a>
-  <a href="https://github.com/sponsors/LengxiQwQ"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+  <img src="https://count.getloli.com/@LengxiQwQ?theme=asoul&padding=7&offset=8&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
 </p>
