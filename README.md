@@ -58,9 +58,9 @@ Playlist parser and multi-format exporter for major music platforms, supporting 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LengxiQwQ/.github/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LengxiQwQ/.github/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LengxiQwQ/.github/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -82,7 +82,7 @@ Playlist parser and multi-format exporter for major music platforms, supporting 
 </p>
 
 <p align="center">
-  <a href="https://github.com/LengxiQwQ"><img src="https://raw.githubusercontent.com/LengxiQwQ/.github/main/profile/github-metrics.svg" alt="GitHub Metrics" /></a>
+  <a href="https://github.com/LengxiQwQ"><img src="https://raw.githubusercontent.com/LengxiQwQ/LengxiQwQ/main/profile/github-metrics.svg" alt="GitHub Metrics" /></a>
 </p>
 
 ---
